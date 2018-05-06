@@ -1,0 +1,355 @@
+Product, ProductType, MinPrice, MaxPrice
+Wheat,147 Average,1600,1900
+Wheat,147 Best,1575,2870
+Wheat,2329,1735,1735
+Wheat,Bansi,1600,1941
+Wheat,Dara,1450,1860
+Wheat,Kalyan,1900,2400
+Wheat,Lok-1,1600,1735
+Wheat,Lokwan,1411,2089
+Wheat,Lokwan Gujrat,1475,1650
+Wheat,Maharashtra 2189,1300,2500
+Wheat,Mexican,1500,1780
+Wheat,Milbar,1515,1735
+Wheat,Mill Quality,1700,1843
+Wheat,Rajasthan Tukdi,1535,2755
+Wheat,Sharbati,1550,3200
+Wheat,Deshi,1735,2400
+Wheat,Sona,1725,1725
+Wheat,Red,1800,2500
+Wheat,White,1439,2689
+Wheat,H.D.,1800,1800
+Wheat,Local,1176,3300
+Wheat,Super Fine,2600,3000
+Wheat,Medium,1300,1500
+Wheat,Sonalika,1590,1815
+Wheat,Hybrid,1400,2250
+Paddy(Dhan),Paddy,825,2710
+Paddy(Dhan),Ponni,1620,2062
+Paddy(Dhan),I.R. 36,1500,1570
+Paddy(Dhan),I.R. 64,1200,1590
+Paddy(Dhan),ADT 36,1470,1700
+Paddy(Dhan),ADT 43,1320,1618
+Paddy(Dhan),AST 16,1500,1700
+Paddy(Dhan),Co. 43,1540,1600
+Paddy(Dhan),1001,1450,2100
+Paddy(Dhan),Sona,1200,1692
+Paddy(Dhan),Sona Mahsuri,1301,1769
+Paddy(Dhan),Nellore Sanna,1352,1352
+Paddy(Dhan),Rajahamsa,1251,1329
+Paddy(Dhan),Paddy Dappa,881,1637
+Paddy(Dhan),Paddy fine,1520,2850
+Paddy(Dhan),Paddy Medium,1510,2359
+Paddy(Dhan),Paddy Coarse,1440,1650
+Paddy(Dhan),Hansa,1100,1630
+Paddy(Dhan),B P T,1701,1782
+Paddy(Dhan),Swarna Masuri (OLD),1510,1600
+Paddy(Dhan),Samba Masuri,1375,1600
+Paddy(Dhan),MTU-1010,1256,1620
+Paddy(Dhan),Swarna Masuri (New),1530,1590
+Paddy(Dhan),1121,3000,3250
+Paddy(Dhan),Common,1300,1700
+Paddy(Dhan),Fine,1500,2020
+Paddy(Dhan),Sugandha,2500,2700
+Paddy(Dhan),Basmati 1509,2600,2800
+Rice,1009 Kar,2300,4950
+Rice,Coarse,2150,4500
+Rice,CR 1009 (Coarse) Boiled,3850,5200
+Rice,Fine,2500,6600
+Rice,H.Y.V.,2750,2850
+Rice,III,1800,2800
+Rice,IR-8,3200,3300
+Rice,Medium,2150,4400
+Rice,Motta (Coarse) Boiled,2100,2800
+Rice,Parimal (New),3100,3200
+Rice,Pusa Basmati Raw (New),2635,2730
+Rice,Pusa Basmati Raw (Old),2005,2180
+Rice,Super Fine,5600,6000
+Rice,Jaya,2,3600
+Rice,Sanna Bhatta,2200,2500
+Rice,Sona,3450,5500
+Rice,Ratnachudi (718 5-749),3300,3500
+Rice,Broken Rice,1180,2600
+Rice,GMR Steam,2560,3940
+Rice,Hansa,2200,2300
+Rice,Mataa Parboiled,4150,4250
+Rice,Common,1600,4500
+Maize,Deshi Red,912,1500
+Maize,Deshi White,865,1500
+Maize,Hybrid Yellow (Cattle Feed),1240,1260
+Maize,Hybrid/Local,1009,2400
+Maize,Local,950,1553
+Maize,White (SAFED),1180,1350
+Maize,Yellow,900,1600
+Maize,Hybrid,1055,1500
+Maize,Medium,1410,1470
+Jowar(Sorghum),Jowar ( White),1018,3100
+Jowar(Sorghum),Jowar (Yellow),1680,1720
+Jowar(Sorghum),Local,2000,3000
+Jowar(Sorghum),White,2155,2426
+Jowar(Sorghum),Jowar Hybrid,1280,1440
+Jowar(Sorghum),Red,842,2180
+Jowar(Sorghum),Hybrid,750,950
+Bengal Gram(Gram),Average (Whole),2490,7500
+Bengal Gram(Gram),Desi (F.A.Q. Split),3250,4490
+Bengal Gram(Gram),Desi (Whole),2500,5700
+Bengal Gram(Gram),Jawari/Local,2319,3593
+Bengal Gram(Gram),Kabul Small,3825,3825
+Bengal Gram(Gram),Kanta,2905,4400
+Black Gram (Urd Beans),Desi,2300,4500
+Black Gram (Urd Beans),Black Gram (Whole),7,8400
+Black Gram (Urd Beans),Black Gram Dal,5015,8900
+Green Gram (Moong),Green (Whole),3000,9000
+Green Gram (Moong),Green Gram Dhall-I,8500,9000
+Green Gram (Moong),Local (Whole),5570,5600
+Green Gram (Moong),Small (Split),7300,7600
+Green Gram (Moong),Local,2059,4829
+Groundnut,Big (With Shell),3009,4800
+Groundnut,Gungri (With Shell),2971,3807
+Groundnut,DMV-7,4000,4600
+Groundnut,Balli/Habbu,1648,3259
+Groundnut,Gejje,1139,3859
+Groundnut,Hybrid,2403,2549
+Groundnut,Bold,2750,4100
+Groundnut,Local,2100,3878
+Groundnut,G20,2850,4010
+Sesamum(Sesame,Gingelly,Til),Red,9375,9375
+Sesamum(Sesame,Gingelly,Til),White,4900,8625
+Sesamum(Sesame,Gingelly,Til),Black,5250,8384
+Mustard,Lohi Black,3100,9525
+Mustard,Rai UP,3553,3553
+Mustard,Sarson(Black),3000,4050
+Mustard,Yellow (Black),3389,3900
+Mustard,Mustard,34,4000
+Mustard,Big 100 Kg,3100,4025
+Soyabean,Yellow,1500,3725
+Soyabean,Soyabeen,2369,4200
+Sunflower,Sunflower,2919,3362
+Cotton,H-4(A) 27mm FIne,3500,5110
+Cotton,Shanker 4 31mm FIne,4855,5300
+Cotton,Shanker 6 (B) 30mm FIne,3500,4200
+Cotton,LH-1556,1509,5709
+Cotton,F-1054,3400,5200
+Cotton,Desi,4000,4700
+Cotton,MCU,4000,4500
+Cotton,Cotton (Unginned),3015,5000
+Cotton,170-CO2 (Unginned),3000,3200
+Cotton,Varalakshmi  (Ginned),2701,4850
+Cotton,MCU 5,3987,4080
+Cotton,Varalaxmi,3500,4000
+Cotton,GCH,1515,5250
+Cotton,Narma BT Cotton,4105,5450
+Jute,TD-5,3300,4050
+Apple,American,8500,16000
+Apple,Delicious,2000,15000
+Apple,Kasmir/Shimla - II,5850,7580
+Apple,Royal Delicious,6900,7000
+Apple,Simla,6000,20000
+Apple,Apple,2500,20000
+Orange,Nagpuri,4150,4350
+Orange,Orange,1111,6000
+Banana,Khandesh,275,550
+Banana,Medium,800,2400
+Banana,Nendra Bale,3300,6000
+Banana,Banana - Ripe,600,3000
+Banana,Pachha Bale,500,700
+Banana,Elakki Bale,2100,3000
+Banana,Red Banana,3500,6200
+Banana,Rasakathai,4600,5000
+Banana,Poovan,1200,5400
+Banana,Robusta,1000,2700
+Banana,Palayamthodan,1000,4000
+Banana,Desi(Bontha),250,400
+Mango,Safeda,3500,6500
+Mango,Totapuri,300,4500
+Mango,Dusheri,1000,2300
+Mango,Langra,4000,4000
+Mango,Hapus(Alphaso),1000,23000
+Mango,Badami,500,2000
+Pine Apple,Pine Apple,3,4500
+Grapes,Annabesahai,3240,3960
+Grapes,Black,2143,8400
+Grapes,Green,2700,11150
+Grapes,White,1875,5260
+Onion,Nasik,700,1400
+Onion,Red,50,1815
+Onion,White,130,990
+Onion,Local,100,1500
+Onion,Onion,200,4000
+Onion,Puna,300,1100
+Onion,Telagi,300,800
+Onion,Big,1200,2000
+Onion,Medium,700,1000
+Onion,Small,600,3500
+Onion,2nd Sort,300,500
+Onion,1st Sort,500,1000
+Potato,(Red Nanital),700,1800
+Potato,Desi,500,1500
+Potato,F.A.Q.,350,1650
+Potato,Jalander,400,600
+Potato,Jyoti,950,2000
+Potato,Badshah,1150,1500
+Potato,Local,450,2200
+Potato,Potato,12,3500
+Garlic,Average,1400,2610
+Garlic,Desi,1200,3200
+Garlic,Garlic,5,5000
+Chili Red,Red,1500,12000
+Ginger(Dry),Dry,9000,14000
+Ginger(Dry),Big/Thick,7500,7700
+Bajra(Pearl Millet/Cumbu),Bold,1000,1360
+Bajra(Pearl Millet/Cumbu),Deshi,875,1550
+Bajra(Pearl Millet/Cumbu),Hybrid,995,2000
+Bajra(Pearl Millet/Cumbu),Local,901,901
+Bajra(Pearl Millet/Cumbu),Small,1400,1450
+Bajra(Pearl Millet/Cumbu),PCB-138,1000,1040
+Barley (Jau),Dara,1100,1760
+Barley (Jau),Deshi,1272,1500
+Ragi (Finger Millet),Fine,3000,3400
+Ragi (Finger Millet),Local,1677,3600
+Ragi (Finger Millet),Hybrid,1827,1862
+Cauliflower,African Sarson,1130,1680
+Cauliflower,Local,300,1600
+Cauliflower,Cauliflower,200,6000
+Brinjal,Round,500,2500
+Brinjal,Round/Long,200,3300
+Brinjal,Arkasheela Mattigulla,640,1200
+Brinjal,Brinjal,150,5000
+Cashewnuts,Local(Raw),13000,16300
+Black pepper,Malabar,27000,34500
+Black pepper,Ungrabled,34000,38000
+Black pepper,Garbled,35000,38000
+Turmeric,Rajapuri,6500,12000
+Turmeric,Turmeric,9750,9900
+Turmeric,Local,5297,7600
+Turmeric,Turmeric Stick,7700,12800
+Turmeric,Finger,6900,7000
+Turmeric,Dry,9500,10500
+Cummin Seed(Jeera),Cummin Seed(Jeera),9000,14750
+Coriander(Leaves),Local,4351,10000
+Coriander(Leaves),Coriander,400,2000
+Methi(Leaves),Methi,1000,2000
+Methi Seeds,Methiseeds,1750,7200
+Arhar (Tur/Red Gram),Arhar (Whole),1912,5450
+Arhar (Tur/Red Gram),Arhar Dal(Tur),3400,7500
+Arhar (Tur/Red Gram),777 New Vasad Imp,2701,4133
+Arhar (Tur/Red Gram),Small (Whole),3600,4000
+Arhar (Tur/Red Gram),Local,3500,4311
+Arhar (Tur/Red Gram),Hybrid,3422,3422
+Green Peas,Green Peas,4200,5500
+Green Peas,White Fozi,2350,4000
+Safflower,F.A.Q. Bold,3092,3092
+Safflower,Safflower,2839,3290
+Lentil(Masur),Masur Dal,4000,8200
+Lentil(Masur),Kala Masoor New,2980,4470
+Lentil(Masur),Masoor Gola,2450,4450
+Field Pea,Field Pea,1500,3800
+Linseed,Linseed,3290,4800
+Chikoos(Sapota),Sapota,5,2200
+Papaya,Papaya,2,3300
+Water Melon,Water Melon,200,1500
+Guar,Gwar,900,4000
+Mousambi(Sweet Lime),Mousambi,1000,5500
+Tomato,Deshi,300,1025
+Tomato,Local,100,1600
+Tomato,Hybrid,300,1200
+Tomato,Tomato,80,3000
+Cluster beans,Cluster Beans,800,5000
+Bitter gourd,Bitter Gourd,200,7000
+Bottle gourd,Bottle Gourd,150,2600
+Ashgourd,Ashgourd,1,3000
+Pumpkin,Pumpkin,200,2600
+Bhindi(Ladies Finger),Bhindi,2,5000
+Amaranthus,Amaranthus,800,4500
+Green Chilli,Green Chilly,4,6000
+Chilly Capsicum,Chilly Capsicum,1600,2000
+Cowpea(Veg),Cowpea (Veg),4,6000
+Banana - Green,Banana - Green,600,5000
+Cowpea (Lobia/Karamani),Cowpea (Whole),2611,7000
+Beans,Beans (Whole),1500,4800
+Beans,Local,2000,2000
+Lak(Teora),Lak (Whole),1686,1757
+Tapioca,Tapioca,1200,2500
+Amphophalus,Amphophalus,1600,4200
+Ginger(Green),Green Ginger,1000,8700
+Corriander seed,Coriander Seed,3000,10500
+Kulthi(Horse Gram),Horse gram (Whole),2500,4425
+Castor Seed,Castor seed,1950,3825
+Castor Seed,Caster,3400,3700
+Honge seed,Honge Seed,1000,1200
+Copra,Copra,12500,16500
+Dry Chillies,Byadgi,9100,13300
+Dry Chillies,Local,1899,11721
+Dry Chillies,Guntur,9300,9600
+Dry Chillies,1st Sort,7000,9000
+Dry Chillies,2nd Sort,3000,6000
+Soanf,Soanf,5120,5800
+Coconut,Coconut,500,20000
+Coconut,Big,2200,2400
+Coconut,Medium,1100,13000
+Coconut,Grade-I,18000,33000
+Coconut,Grade- II,15000,24000
+Coconut,Grade-III,12000,13440
+Coconut,Imported,10000,10000
+Sweet Potato,Sweet Potato,300,4100
+Carrot,Carrot,400,4500
+Cabbage,Cabbage,100,3000
+Snakeguard,Snakeguard,1000,5000
+Beetroot,Beetroot,200,4000
+White Pumpkin,White Pumpkin,800,1200
+Cucumbar(Kheera),Cucumbar,1,4000
+Ridgeguard(Tori),Ridgeguard(Tori),400,5000
+Raddish,Raddish,200,1500
+Thondekai,Thondekai,500,1000
+Capsicum,Capsicum,300,5100
+Green Avare (W),Green Avare (W),3000,3500
+Alsandikai,Alsandikai,2400,3200
+Drumstick,Drumstick,2,5000
+Chapparad Avare,Chapparada Avarekai,2400,2800
+Leafy Vegetable,Leafy Vegetables,500,500
+Mango (Raw-Ripe),Mango - Raw-Ripe,500,2500
+Sweet Pumpkin,Sweet Pumpkin,500,1600
+Peas Wet,Peas Wet,2500,8000
+Seemebadnekai,Seemebadanekai,1600,2000
+Knool Khol,Knool Khol,600,3200
+Suvarna Gadde,Suvarnagadde,2400,2800
+Lime,Lime,3650,6000
+Jack Fruit,Jack Fruit,1000,1900
+Guava,Guava,5,1667
+Karbuja(Musk Melon),Karbhuja,300,2000
+Pomegranate,Pomogranate,2500,9000
+Tender Coconut,Tender Coconut,6000,16000
+Suva (Dill Seed),Suva (Dill Seed),4225,4270
+Moath Dal,Moath Dal,6600,6700
+Masur Dal,Masur Dal,4000,5800
+Arhar Dal(Tur Dal),Arhar Dal(Tur),3250,8000
+Arhar Dal(Tur Dal),Ordinary (Split),5900,6500
+Arhar Dal(Tur Dal),U.P. (Split),5250,5650
+Beaten Rice,Beaten Rice,2800,3200
+Bengal Gram Dal (Chana Dal),Bengal Gram Dal,4200,6100
+Bengal Gram Dal (Chana Dal),Desi (F.A.Q. Split),2876,3490
+Bengal Gram Dal (Chana Dal),Bengal Gram (Split),2481,5605
+Black Gram Dal (Urd Dal),Black Gram Dal,4500,9000
+Green Gram Dal (Moong Dal),Green Gram Dal,5400,8000
+Ground Nut Seed,Ground Nut Seed,6800,8000
+Avare Dal,Avare (Whole),6200,6600
+Alasande Gram,Alasande Gram,2635,5200
+Chennangi Dal,Chennangi Dal,4400,5000
+Elephant Yam (Suran),Elephant Yam (Suran),1200,1200
+French Beans (Frasbean),French Beans (Frasbean),1600,3500
+Pointed gourd (Parval),Pointed gourd (Parval),1350,3300
+Round gourd,Round gourd,200,800
+Lemon,Lemon,1500,8260
+Sponge gourd,Sponge gourd,400,1850
+Groundnut (Split),Groundnut(Split),3375,4105
+Colacasia,Colacasia,1800,5300
+Spinach,Spinach,400,1200
+Peas(Dry),Peas(Dry),910,3650
+Tinda,Tinda,500,4000
+Amla(Nelli Kai),Amla,5,6
+Onion Green,Onion Green,800,800
+Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),2000,11500
+Kabuli Chana(Chickpeas-White),White (whole),5800,9000
+White Peas,White Peas,2450,3600
+Guar Seed(Cluster Beans Seed),Whole,3290,3534
+Guar Seed(Cluster Beans Seed),Split,3500,3550
