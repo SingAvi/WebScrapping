@@ -38,7 +38,7 @@ for i in table:
         # Found the number of elements inside it
         elements =  (len(td))
 
-
+#
 #iterating through the last value of "elements" to grab all the details
 for i in  range(0,elements):
 
